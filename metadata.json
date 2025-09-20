@@ -1,0 +1,5 @@
+{
+  "name": "Survey Contract Management Software",
+  "description": "A web application to manage, track, and report on land survey service contracts with role-based access for admins and users.",
+  "requestFramePermissions": []
+}
